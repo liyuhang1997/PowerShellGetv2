@@ -74,7 +74,7 @@ Daily Build status
 Documentation
 =============
 
-[Click here](https://docs.microsoft.com/powershell/scripting/gallery/installing-psget?view=powershell-6)
+[Click here](https://docs.microsoft.com/powershell/scripting/gallery/installing-psget?view=powershell-7.2)
 
 
 Requirements
@@ -91,7 +91,7 @@ Module Dependencies
 Get PowerShellGet Module
 ========================
 
-Please refer to our [documentation](https://aka.ms/installing-psget) for the up-to-date version on how to get the PowerShellGet Module.
+Please refer to our [documentation](https://docs.microsoft.com/powershell/scripting/gallery/installing-psget?view=powershell-7.2) for the up-to-date version on how to get the PowerShellGet Module.
 
 
 Get PowerShellGet Source
@@ -165,8 +165,8 @@ Contributing to PowerShellGet
 ==============================
 You are welcome to contribute to this project. There are many ways to contribute:
 
-- Submit a bug report via [Issues]( https://github.com/PowerShell/PowerShellGet/issues). For a guide to submitting good bug reports, please read [Painless Bug Tracking](http://www.joelonsoftware.com/articles/fog0000000029.html).
-- Read the documentation on [contributing to open source](https://guides.github.com/activities/contributing-to-open-source/) and [forking](https://guides.github.com/activities/forking/).
+- Submit a bug report via [Issues]( https://github.com/PowerShell/PowerShellGet/issues). For a guide to submitting good bug reports, please read [Painless Bug Tracking](https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/).
+- Read the documentation on [contributing to open source](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github) and [forking](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).
 - Verify fixes for bugs.
 - Submit your fixes for a bug. Before submitting, please make sure you have:
   * Performed code reviews of your own
@@ -179,7 +179,7 @@ You are welcome to contribute to this project. There are many ways to contribute
 - Tell others about the project.
 - Tell the developers how much you appreciate the product!
 
-You might also read these two blog posts about contributing code: [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html) by Miguel de Icaza, and [Don’t “Push” Your Pull Requests](http://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) by Ilya Grigorik.
+You might also read these two blog posts about contributing code: [Open Source Contribution Etiquette](https://tirania.org/blog/archive/2010/Dec-31.html) by Miguel de Icaza, and [Don’t “Push” Your Pull Requests](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) by Ilya Grigorik.
 
 Before submitting a feature or substantial code contribution, please discuss it with the Windows PowerShell team via [Issues](https://github.com/PowerShell/PowerShellGet/issues), and ensure it follows the product roadmap. Note that all code submissions will be rigorously reviewed by the Windows PowerShell Team. Only those that meet a high bar for both quality and roadmap fit will be merged into the source.
 
